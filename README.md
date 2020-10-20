@@ -4,9 +4,9 @@ Documents for curdata cloud platform.
 
 ### Productions
 
-- 中心管理系统（CentralManageSystem）
-- 额度管理系统（QoutaManageSystem）
-- 数字货币投放系统（DigitalCurrencyDeliverySystem）
+- 模拟货币生成系统（DigitalCurrencyGenerateSystem）
+- 模拟货币投放系统（DigitalCurrencyDeliverySystem）
+- 可扩展钱包框架（ExtendableWalletFramework）
 - 钱包注册服务（WalletRegistService）
 - 身份认证服务（IdentityAuthenticationService）
 - 钱包代理服务（WalletProxyService）
